@@ -1,2 +1,2 @@
 # ShubhangiChaudhary.github.io
-This is for college use.
+This is my college project.
